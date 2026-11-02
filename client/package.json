@@ -1,0 +1,8 @@
+{
+  "name": "cloud-native-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo \"Building frontend asset bundles\""
+  }
+}
