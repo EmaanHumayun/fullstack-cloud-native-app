@@ -9,7 +9,7 @@ A full-stack, cloud-native application engineered from first principles to demon
 
 ---
 
-## 🏗️ Architecture & Features
+## ️ Architecture & Features
 
 ```text
 fullstack-cloud-native-app/
@@ -36,7 +36,7 @@ fullstack-cloud-native-app/
 
 ---
 
-## ⚡ Quick Start (Docker Compose)
+##  Quick Start (Docker Compose)
 
 Run the complete fullstack system with a single command:
 
@@ -51,7 +51,7 @@ docker-compose up --build
 
 ---
 
-## 👤 Author
+##  Author
 
 **Emaan Humayun**
 - GitHub: [@EmaanHumayun](https://github.com/EmaanHumayun)
